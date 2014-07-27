@@ -1,0 +1,6 @@
+1.import the file:
+   mongoimport --db pcat --collection products < products.json
+
+2.> db.products.find({type:"case"}).count()
+
+3.result:3

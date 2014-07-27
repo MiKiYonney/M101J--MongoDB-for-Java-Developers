@@ -1,0 +1,3 @@
+选项：var c = db.products.find({},{name:1,_id:0}).sort({name:1}); while( c.hasNext() ) print( c.next().name);
+
+选项：var c = db.products.find({}).sort({name:1}); c.forEach( function(doc){ print(doc.name) } ); 

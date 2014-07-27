@@ -1,0 +1,4 @@
+>db.isMaster().maxBsonObjectSize
+
+
+result:16777216
