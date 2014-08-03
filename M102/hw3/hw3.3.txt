@@ -1,4 +1,4 @@
 Compact the performance.sensor_readings collection, with paddingFactor set to 1.0. Then run homework.d() and enter the result below.
 
 
-answer£º21
+answer:21
