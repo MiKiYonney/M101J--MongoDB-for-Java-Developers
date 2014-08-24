@@ -18,7 +18,7 @@
         <dependency>
             <groupId>spark</groupId>
             <artifactId>spark</artifactId>
-            <version>0.9.9.4-SNAPSHOT</version>
+            <version>0.9.8-SNAPSHOT</version>
         </dependency>
 
         <dependency>

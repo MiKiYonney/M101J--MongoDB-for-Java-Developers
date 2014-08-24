@@ -1,0 +1,2 @@
+ Add an arbiter. 
+ Add another data bearing node. 
